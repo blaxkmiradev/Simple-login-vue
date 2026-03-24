@@ -44,7 +44,7 @@ vue3-login-bootstrap/
 
 
 1. Install dependencies
-Bash
+
 npm install
 
 2.Run development server
